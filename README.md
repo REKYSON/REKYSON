@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yengkhom Rekyson Singh</h1>
 <h3 align="center">Computer Engineering Student & Developer</h3>
 
-- 🔭 I’m currently working on **MineShield**
+- I’m currently working on **MineShield**
 
-- 👯 I’m looking to collaborate on **RUNEX (mobile fitness app)**
+- I’m looking to collaborate on **RUNEX (mobile fitness app)**
 
-- 👨‍💻 All of my projects are available at [https://yengkhom-rekyson-singh.vercel.app/](https://yengkhom-rekyson-singh.vercel.app/)
+-  All of my projects are available at [https://yengkhom-rekyson-singh.vercel.app/](https://yengkhom-rekyson-singh.vercel.app/)
 
-- 📫 How to reach me **yengkhomrekysonsingh@gmail.com**
+-  How to reach me **yengkhomrekysonsingh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
