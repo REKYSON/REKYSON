@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Yengkhom Rekyson Singh</h1>
 <h3 align="center">Computer Engineering Student & Developer</h3>
 
-- I’m currently working on **MineShield**
+-  I’m currently working on **MineShield**
 
-- I’m looking to collaborate on **RUNEX (mobile fitness app)**
+-  I’m looking to collaborate on **RUNEX (mobile fitness app)**
 
 -  All of my projects are available at [https://yengkhom-rekyson-singh.vercel.app/](https://yengkhom-rekyson-singh.vercel.app/)
 
--  How to reach me **yengkhomrekysonsingh@gmail.com**
+- How to reach me **yengkhomrekysonsingh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/yengkhom_rekyson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/yengkhom_rekyson" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rekyson-singh-574170327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rekyson-singh-574170327/" height="30" width="40" /></a>
+<a href="https://dev.to/yengkhom_rekyson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yengkhom_rekyson" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rekyson-singh-574170327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rekyson-singh-574170327" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/yengkhom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yengkhom/" height="30" width="40" /></a>
 </p>
 
